@@ -1,9 +1,9 @@
 <div align="center">
-	<img  src="https://github-profile-trophy.vercel.app/?username=zhangzhg0508" />
+	<img src="https://activity-graph.herokuapp.com/graph?username=zhangzhg0508&theme=xcode" />
 </div>
 
 <div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=zhangzhg0508&theme=xcode" />
+	<img  src="https://github-profile-trophy.vercel.app/?username=zhangzhg0508" />
 </div>
 
 <div align="center">
